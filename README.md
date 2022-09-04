@@ -44,7 +44,10 @@ python Cricket.py --option <batting or bowling> --hand <left or right> --view <f
 
 ## Results 📊
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif">
+
+<div align="center">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/crick.gif" width=600>
+</div>
 
 ## References 🔱
  
